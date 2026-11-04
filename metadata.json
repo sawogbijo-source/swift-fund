@@ -1,0 +1,6 @@
+{
+  "name": "Swift Fund - USA Loan App",
+  "description": "Swift Fund provides fast USA loans, seamless crypto wallet funding with NOWPayments, bill payments, and 24/7 live assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
